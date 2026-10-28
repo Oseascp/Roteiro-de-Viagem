@@ -1,0 +1,6 @@
+{
+  "name": "RoteiroFácil",
+  "description": "Aplicativo simples de roteiro de viagem com planejamento diário, controle de orçamento e upgrade VIP de R$ 19,90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
